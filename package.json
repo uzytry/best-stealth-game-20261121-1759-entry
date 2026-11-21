@@ -1,0 +1,1 @@
+{"description":"The Grey Lantern — a top-down stealth game for the make.fun best-stealth-game-20261121-1759 bounty.","license":"MIT","name":"the-grey-lantern","private":true,"scripts":{"check":"node dev/playtest.mjs","shots":"node dev/shots.mjs","start":"node serve.ts"},"type":"module","version":"1.0.0"}
